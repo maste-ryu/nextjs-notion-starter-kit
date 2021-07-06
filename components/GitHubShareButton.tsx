@@ -5,13 +5,13 @@ import styles from './styles.module.css'
 export const GitHubShareButton: React.FC = () => {
   return (
     <a
-      href='https://nextjs-notion-starter-kit-sand-delta.vercel.app/'
+      href='https://nt.notestw.com/'
       target='_blank'
       rel='noopener noreferrer'
       className={styles.githubCorner}
       aria-label=''
     >
-     <!--
+    
       <svg
         width='80'
         height='80'
@@ -44,7 +44,7 @@ export const GitHubShareButton: React.FC = () => {
           className={styles.octoBody}
         />
       </svg>
-      -->
+     
     </a>
   )
 }
