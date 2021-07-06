@@ -11,6 +11,7 @@ export const GitHubShareButton: React.FC = () => {
       className={styles.githubCorner}
       aria-label=''
     >
+     <!--
       <svg
         width='80'
         height='80'
@@ -43,6 +44,7 @@ export const GitHubShareButton: React.FC = () => {
           className={styles.octoBody}
         />
       </svg>
+      -->
     </a>
   )
 }
