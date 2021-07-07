@@ -46,7 +46,7 @@ export const Footer: React.FC<{
       ) : null}
 
       <div>
-       <a href="#" class="back-to-top">︽</a>
+       <a href='#' class='back-to-top'>︽</a>
       </div>
     </footer>
   )
