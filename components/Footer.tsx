@@ -28,7 +28,7 @@ export const Footer: React.FC<{
     
 <button class="js-back-to-top back-to-top" title="回到頭部">&#65085;</button>
 
-<script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js"></script>
+<script src="./jquery.min.js"></script>
 
 <script>
 
