@@ -45,7 +45,7 @@ export const Footer: React.FC<{
         </div>
       ) : null}
 
-      <div className={styles.social}>
+      <div>
        <a href="#" class="back-to-top">︽</a>
       </div>
     </footer>
